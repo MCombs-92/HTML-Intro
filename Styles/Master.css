@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("https://i.imgur.com/7SEcm6b.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+div p {
+    padding: 0px;
+    margin: 0px;
+}
+
+ul {
+    margin-top: 5px;
+}
+ul li {
+    margin: 5px;
+    margin-left: 75px;
+    text-align: justify;
+    font-size: 12pt;
+}
+.resumeheader{
+    text-align: center;
+    font-weight: bold;
+    font-size: 48pt;
+    padding: 0px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+
+.personal {
+    text-align: center;
+    font-size: 12pt;
+    
+}
+
+.sectionheader {
+    font-weight: bold;
+    font-size: 28pt;
+    margin-top: 20px;
+    margin-left: 10px;
+    text-align: center;
+}
+
+.listheader {
+    font-weight: bold;
+    font-size: 18pt;
+}
+
+.lowerlist {
+    font-weight: bold;
+    font-size: 14pt;
+}
+
+.headerencase {
+    background-color: #d9d9d9;
+    width: 35%;
+    margin: auto;
+    padding: 10px;
+    margin-top: 0px;
+    border: solid black 3px;
+    border-top: none;
+}
+
+.itemencase {
+    background-color: #d9d9d9;
+    width: 42%;
+    height: 100%;
+    margin: 20px 60px 0px 60px;
+    padding: 10px 20px 20px 0px;
+    border: solid black 3px;
+    display: inline-block;
+
+}
+
+#history {
+    margin-top: 80px;
+}
+
+.emblemcenter {
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0px 10px 0px;
+}
+
+.emblem {
+    color: white;
+    padding: 0px 10px 0px 10px;
+}
